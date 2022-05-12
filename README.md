@@ -17,4 +17,4 @@
 
 <p>Change events toggle on and off different classes relating to user’s mood selected from the dropdown list.</p>
 
-<img src=""/>
+<img src="img/mood-ring.png"/>
